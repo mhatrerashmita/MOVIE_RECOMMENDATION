@@ -20,5 +20,7 @@ The movie recommender system aims to enhance user experience by providing person
    git clone https://github.com/mhatrerashmita/MOVIE_RECOMMENDATION.git
 ## Demo
 
-You can view a live demo of the Railway Management System at [Demo Link](C:\Users\admin\Pictures\Screenshots\demo.png
+You can view a live demo of the Movie Recommender System at [Demo Link](C:\Users\admin\Pictures\Screenshots\demo.png
 ).
+
+![demo](https://github.com/mhatrerashmita/MOVIE_RECOMMENDATION/assets/130562993/ad61ad53-09bb-4557-abe0-b4119dcf2e1b)
