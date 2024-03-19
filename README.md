@@ -17,4 +17,4 @@ The movie recommender system aims to enhance user experience by providing person
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-recommender.git
+   git clone https://github.com/mhatrerashmita/MOVIE_RECOMMENDATION.git
